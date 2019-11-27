@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 20vh;
+  margin: 1vh;
+  border: 2px solid rebeccapurple;
+  border-radius: 20px;
+  padding: 1vh;
+  background-color: #b4d4556e;
+
+  h2 {
+    text-decoration: underline;
+  }
+}
